@@ -6,7 +6,7 @@ public class Variable {
 
 	int i=0;
 
-
+	//Comentario al azar
 
 	public static void main (String[] args) {
 		
