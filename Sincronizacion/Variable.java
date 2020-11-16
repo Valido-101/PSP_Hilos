@@ -29,7 +29,7 @@ public class Variable {
 						semaphore.release();
 						//dejo el control de la región crítica
 						
-						if(ejemplo.i==100) 
+						if(ejemplo.i>=100) 
 						{
 							break;
 						}
